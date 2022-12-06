@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div id="output">
+
+    </div>
+    <button onclick="arr()">click</button>
+    <script>
+
+        function arr(){
+            let frt = ["f1","f2","f3","f4","f5","f6"];
+            let a = "";
+
+            for(let i = 0; i <= frt.length-1; i++){
+
+                a = a + "<br />"+frt[i];
+
+            }
+            document.getElementById("output").innerHTML = a;
+            console.log(a);
+        }
+    </script>
+    
+</body>
+</html>

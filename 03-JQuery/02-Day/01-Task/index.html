@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script
+  src="https://code.jquery.com/jquery-3.6.1.min.js"
+  integrity="sha256-o88AwQnZB+VDvE9tvIXrMQaPlFFSUTR+nldQm1LuPXQ="
+  crossorigin="anonymous"></script>
+    <title>Document</title>
+</head>
+<body>
+    <button id="">Action</button>
+    <div style="background:#98bf21;height:100px;width:100px;position:absolute;"></div>
+    <script>
+
+        $(document).ready(function(){
+
+            $("button").click(function(){
+                $("div").animate({
+                    
+                    height: '500px',
+                    width: '500px'
+                },{duration: 5000,
+                complete: function(){
+                    $(this).animate({
+
+                        height: '300px',
+                    width: '300px'
+                    },5000,
+                    function(){
+
+                        
+                    }
+                    )
+                }
+                
+                
+                }
+                )
+            });
+
+
+        });
+
+
+
+
+
+
+    </script>
+</body>
+</html>

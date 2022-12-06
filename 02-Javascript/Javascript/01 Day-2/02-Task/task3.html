@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h2>Number 1</h2>
+   <input type="number" id="in1">
+   <h2>Number 2</h2> 
+   <input type="number" id="in2">
+    <br/>
+    <br/>
+    <button onclick="sum()">Addition</button>
+    <button onclick="sub()">Subtraction</button>
+    <button onclick="mul()">Multiplication</button>
+    <button onclick="div()">Division</button>
+    <button onclick="call()">clear</button>
+    <p id="cal"></p>
+    
+
+
+
+    <script>
+
+        let a = document.getElementById("in1");
+        let b = document.getElementById("in2");
+        
+        function sum(){
+           let c = parseInt(a.value) + parseInt(b.value);
+          document.getElementById("cal").innerHTML = "Addition" + " " + c;
+        }
+        function sub(){
+           let c = parseInt(a.value) - parseInt(b.value);
+          document.getElementById("cal").innerHTML = "Subtraction" + " " + c;
+        }
+        function mul(){
+           let c = parseInt(a.value) * parseInt(b.value);
+          document.getElementById("cal").innerHTML = "Multiplication" + " " + c;
+        }
+        function div(){
+           let c = parseInt(a.value) / parseInt(b.value);
+          document.getElementById("cal").innerHTML = "Division" + " " + c;
+        }
+        function call(){
+            document.getElementById("cal").innerHTML = "";
+        }
+    </script>
+</body>
+</html>

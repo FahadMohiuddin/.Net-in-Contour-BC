@@ -1,0 +1,15 @@
+C:\Users\MohiuFah\Desktop\Web Development .NET\05-.NET Framework MVC\Singleton Design Pattern2\bin\Debug\net6.0\Singleton Design Pattern2.exe
+C:\Users\MohiuFah\Desktop\Web Development .NET\05-.NET Framework MVC\Singleton Design Pattern2\bin\Debug\net6.0\Singleton Design Pattern2.deps.json
+C:\Users\MohiuFah\Desktop\Web Development .NET\05-.NET Framework MVC\Singleton Design Pattern2\bin\Debug\net6.0\Singleton Design Pattern2.runtimeconfig.json
+C:\Users\MohiuFah\Desktop\Web Development .NET\05-.NET Framework MVC\Singleton Design Pattern2\bin\Debug\net6.0\Singleton Design Pattern2.dll
+C:\Users\MohiuFah\Desktop\Web Development .NET\05-.NET Framework MVC\Singleton Design Pattern2\bin\Debug\net6.0\Singleton Design Pattern2.pdb
+C:\Users\MohiuFah\Desktop\Web Development .NET\05-.NET Framework MVC\Singleton Design Pattern2\obj\Debug\net6.0\Singleton Design Pattern2.csproj.AssemblyReference.cache
+C:\Users\MohiuFah\Desktop\Web Development .NET\05-.NET Framework MVC\Singleton Design Pattern2\obj\Debug\net6.0\Singleton Design Pattern2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MohiuFah\Desktop\Web Development .NET\05-.NET Framework MVC\Singleton Design Pattern2\obj\Debug\net6.0\Singleton Design Pattern2.AssemblyInfoInputs.cache
+C:\Users\MohiuFah\Desktop\Web Development .NET\05-.NET Framework MVC\Singleton Design Pattern2\obj\Debug\net6.0\Singleton Design Pattern2.AssemblyInfo.cs
+C:\Users\MohiuFah\Desktop\Web Development .NET\05-.NET Framework MVC\Singleton Design Pattern2\obj\Debug\net6.0\Singleton Design Pattern2.csproj.CoreCompileInputs.cache
+C:\Users\MohiuFah\Desktop\Web Development .NET\05-.NET Framework MVC\Singleton Design Pattern2\obj\Debug\net6.0\Singleton Design Pattern2.dll
+C:\Users\MohiuFah\Desktop\Web Development .NET\05-.NET Framework MVC\Singleton Design Pattern2\obj\Debug\net6.0\refint\Singleton Design Pattern2.dll
+C:\Users\MohiuFah\Desktop\Web Development .NET\05-.NET Framework MVC\Singleton Design Pattern2\obj\Debug\net6.0\Singleton Design Pattern2.pdb
+C:\Users\MohiuFah\Desktop\Web Development .NET\05-.NET Framework MVC\Singleton Design Pattern2\obj\Debug\net6.0\Singleton Design Pattern2.genruntimeconfig.cache
+C:\Users\MohiuFah\Desktop\Web Development .NET\05-.NET Framework MVC\Singleton Design Pattern2\obj\Debug\net6.0\ref\Singleton Design Pattern2.dll

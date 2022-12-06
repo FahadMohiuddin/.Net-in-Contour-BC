@@ -1,0 +1,6 @@
+
+https://dotnettutorials.net/lesson/facade-design-pattern/
+https://www.c-sharpcorner.com/article/facade-design-pattern-using-c-sharp/
+
+
+how to fetch data from excel sheet in C# Production file & development file.

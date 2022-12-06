@@ -1,0 +1,8 @@
+C:\Users\MohiuFah\Desktop\Web Development .NET\05-.NET Framework MVC\Dynamic Type\obj\Debug\net6.0\Dynamic Type.csproj.AssemblyReference.cache
+C:\Users\MohiuFah\Desktop\Web Development .NET\05-.NET Framework MVC\Dynamic Type\obj\Debug\net6.0\Dynamic Type.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MohiuFah\Desktop\Web Development .NET\05-.NET Framework MVC\Dynamic Type\obj\Debug\net6.0\Dynamic Type.AssemblyInfoInputs.cache
+C:\Users\MohiuFah\Desktop\Web Development .NET\05-.NET Framework MVC\Dynamic Type\obj\Debug\net6.0\Dynamic Type.AssemblyInfo.cs
+C:\Users\MohiuFah\Desktop\Web Development .NET\05-.NET Framework MVC\Dynamic Type\obj\Debug\net6.0\Dynamic Type.csproj.CoreCompileInputs.cache
+C:\Users\MohiuFah\Desktop\Web Development .NET\05-.NET Framework MVC\Dynamic Type\obj\Debug\net6.0\Dynamic Type.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MohiuFah\Desktop\Web Development .NET\05-.NET Framework MVC\Dynamic Type\obj\Debug\net6.0\Dynamic Type.RazorAssemblyInfo.cache
+C:\Users\MohiuFah\Desktop\Web Development .NET\05-.NET Framework MVC\Dynamic Type\obj\Debug\net6.0\Dynamic Type.RazorAssemblyInfo.cs

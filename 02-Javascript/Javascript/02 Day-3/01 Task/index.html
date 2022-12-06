@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="main.js"></script>
+    <title>Document</title>
+</head>
+<body>
+    <input type="text" id="num1">
+    <input type="text" id="num2">
+    <button onclick="comparsion()">Compare</button>
+    <p id="ans"></p>
+
+    <script>
+       
+
+        function comparsion(){
+
+        let num1 = document.getElementById("num1");
+        let firstnum = parseInt(num1.value);
+        let num2 = document.getElementById("num2");
+        let secondnum = parseInt(num2.value);
+
+            if(firstnum < secondnum){
+                document.write(secondnum +  " " + "is greater than" + " " + firstnum);
+            }
+            else if(firstnum > secondnum){
+                document.write(firstnum + " " + "is greater than" + " " + secondnum);
+            }
+            else{
+                document.write("Invalid Value")
+            }
+
+        }
+    </script>
+</body>
+</html>

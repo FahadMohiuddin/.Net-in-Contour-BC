@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <input type="number" id="intial">
+    <input type="number" id="final">
+    <button onclick="func()">hh</button>
+
+        <script>
+        function func(){
+            let frt = ["f1","f2","f3","f4","f5","f6"];
+
+            let inital = document.getElementById("intial");
+            let initialval = parseInt(inital.value);
+
+            let final = document.getElementById("final");
+            let finalval = parseInt(final.value);
+
+            let range = "";
+
+            for(let i = initialval; i < finalval; i++ ){
+
+                range += frt[i];
+            }
+            console.log(range);
+        }
+        </script>
+</body>
+</html>

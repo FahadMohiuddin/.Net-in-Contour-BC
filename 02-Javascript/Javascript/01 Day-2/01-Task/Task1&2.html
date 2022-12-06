@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h2>Number 1</h2>
+   <input type="number" id="in1">
+   <h2>Number 2</h2> 
+   <input type="number" id="in2">
+    <br/>
+    <br/>
+    <button onclick="sum()">Calculate</button>
+    <p>Addition</p>
+    <p id="add"></p>
+    <p>Subtraction</p>
+    <p id="sub"></p>
+    <p>Multiplication</p>
+    <p id="mul"></p>
+    <p>Division</p>
+    <p id="div"></p>
+
+
+
+    <script>
+
+        
+        function sum(){
+
+            let a = document.getElementById("in1");
+           let b = document.getElementById("in2");
+           let c = parseInt(a.value) + parseInt(b.value);
+           let d = parseInt(a.value) - parseInt(b.value);
+           let e = parseInt(a.value) * parseInt(b.value);
+           let f = parseFloat(a.value) / parseFloat(b.value);
+
+          document.getElementById("add").innerHTML = c;
+          document.getElementById("sub").innerHTML = d;
+          document.getElementById("mul").innerHTML = e;
+          document.getElementById("div").innerHTML = f;
+          
+          
+         
+ 
+        }
+      
+    </script>
+</body>
+</html>

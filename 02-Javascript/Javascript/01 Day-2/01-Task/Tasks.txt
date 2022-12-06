@@ -1,0 +1,4 @@
+https://www.w3resource.com/javascript-exercises/
+
+Take 2 Inputs from user on click add both & show results.  
+Take 2 Inputs from user on click (add, subtract,mult,divide) both & show results.  
