@@ -1,0 +1,4 @@
+ClientID:
+85542426829-drjknvco5bacvdvjp0n0pl1v657lireu.apps.googleusercontent.com
+Client Secret:
+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

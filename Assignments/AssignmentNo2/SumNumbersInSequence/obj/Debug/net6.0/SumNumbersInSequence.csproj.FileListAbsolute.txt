@@ -1,0 +1,15 @@
+C:\Users\MohiuFah\Desktop\Web Development .NET\Assignments\AssignmentNo2\SumNumbersInSequence\obj\Debug\net6.0\SumNumbersInSequence.csproj.AssemblyReference.cache
+C:\Users\MohiuFah\Desktop\Web Development .NET\Assignments\AssignmentNo2\SumNumbersInSequence\obj\Debug\net6.0\SumNumbersInSequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MohiuFah\Desktop\Web Development .NET\Assignments\AssignmentNo2\SumNumbersInSequence\obj\Debug\net6.0\SumNumbersInSequence.AssemblyInfoInputs.cache
+C:\Users\MohiuFah\Desktop\Web Development .NET\Assignments\AssignmentNo2\SumNumbersInSequence\obj\Debug\net6.0\SumNumbersInSequence.AssemblyInfo.cs
+C:\Users\MohiuFah\Desktop\Web Development .NET\Assignments\AssignmentNo2\SumNumbersInSequence\obj\Debug\net6.0\SumNumbersInSequence.csproj.CoreCompileInputs.cache
+C:\Users\MohiuFah\Desktop\Web Development .NET\Assignments\AssignmentNo2\SumNumbersInSequence\bin\Debug\net6.0\SumNumbersInSequence.exe
+C:\Users\MohiuFah\Desktop\Web Development .NET\Assignments\AssignmentNo2\SumNumbersInSequence\bin\Debug\net6.0\SumNumbersInSequence.deps.json
+C:\Users\MohiuFah\Desktop\Web Development .NET\Assignments\AssignmentNo2\SumNumbersInSequence\bin\Debug\net6.0\SumNumbersInSequence.runtimeconfig.json
+C:\Users\MohiuFah\Desktop\Web Development .NET\Assignments\AssignmentNo2\SumNumbersInSequence\bin\Debug\net6.0\SumNumbersInSequence.dll
+C:\Users\MohiuFah\Desktop\Web Development .NET\Assignments\AssignmentNo2\SumNumbersInSequence\bin\Debug\net6.0\SumNumbersInSequence.pdb
+C:\Users\MohiuFah\Desktop\Web Development .NET\Assignments\AssignmentNo2\SumNumbersInSequence\obj\Debug\net6.0\SumNumbersInSequence.dll
+C:\Users\MohiuFah\Desktop\Web Development .NET\Assignments\AssignmentNo2\SumNumbersInSequence\obj\Debug\net6.0\refint\SumNumbersInSequence.dll
+C:\Users\MohiuFah\Desktop\Web Development .NET\Assignments\AssignmentNo2\SumNumbersInSequence\obj\Debug\net6.0\SumNumbersInSequence.pdb
+C:\Users\MohiuFah\Desktop\Web Development .NET\Assignments\AssignmentNo2\SumNumbersInSequence\obj\Debug\net6.0\SumNumbersInSequence.genruntimeconfig.cache
+C:\Users\MohiuFah\Desktop\Web Development .NET\Assignments\AssignmentNo2\SumNumbersInSequence\obj\Debug\net6.0\ref\SumNumbersInSequence.dll

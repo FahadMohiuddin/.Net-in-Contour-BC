@@ -21,7 +21,11 @@ namespace EntityFramework.Controllers
 
         public IActionResult Index()
         {
-            address a1 = new address() { }
+            address a1 = new address() { city="dfds",state="dsdasd",country="sdasdad"};
+
+
+            _schoolMS.addresses.Add(a1);
+
             return View();
         }
 

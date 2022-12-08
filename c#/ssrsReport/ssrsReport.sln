@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ssrsReport", "ssrsReport.csproj", "{BCF27C92-1615-47A2-A312-543DE27BB952}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCF27C92-1615-47A2-A312-543DE27BB952}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCF27C92-1615-47A2-A312-543DE27BB952}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCF27C92-1615-47A2-A312-543DE27BB952}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCF27C92-1615-47A2-A312-543DE27BB952}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A038FDFE-1153-4A75-8246-15F2E1166BC1}
+	EndGlobalSection
+EndGlobal

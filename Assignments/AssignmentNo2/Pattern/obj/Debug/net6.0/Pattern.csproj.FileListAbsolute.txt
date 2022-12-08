@@ -1,0 +1,15 @@
+C:\Users\MohiuFah\Desktop\Web Development .NET\Assignments\AssignmentNo2\Pattern\bin\Debug\net6.0\Pattern.exe
+C:\Users\MohiuFah\Desktop\Web Development .NET\Assignments\AssignmentNo2\Pattern\bin\Debug\net6.0\Pattern.deps.json
+C:\Users\MohiuFah\Desktop\Web Development .NET\Assignments\AssignmentNo2\Pattern\bin\Debug\net6.0\Pattern.runtimeconfig.json
+C:\Users\MohiuFah\Desktop\Web Development .NET\Assignments\AssignmentNo2\Pattern\bin\Debug\net6.0\Pattern.dll
+C:\Users\MohiuFah\Desktop\Web Development .NET\Assignments\AssignmentNo2\Pattern\bin\Debug\net6.0\Pattern.pdb
+C:\Users\MohiuFah\Desktop\Web Development .NET\Assignments\AssignmentNo2\Pattern\obj\Debug\net6.0\Pattern.csproj.AssemblyReference.cache
+C:\Users\MohiuFah\Desktop\Web Development .NET\Assignments\AssignmentNo2\Pattern\obj\Debug\net6.0\Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MohiuFah\Desktop\Web Development .NET\Assignments\AssignmentNo2\Pattern\obj\Debug\net6.0\Pattern.AssemblyInfoInputs.cache
+C:\Users\MohiuFah\Desktop\Web Development .NET\Assignments\AssignmentNo2\Pattern\obj\Debug\net6.0\Pattern.AssemblyInfo.cs
+C:\Users\MohiuFah\Desktop\Web Development .NET\Assignments\AssignmentNo2\Pattern\obj\Debug\net6.0\Pattern.csproj.CoreCompileInputs.cache
+C:\Users\MohiuFah\Desktop\Web Development .NET\Assignments\AssignmentNo2\Pattern\obj\Debug\net6.0\Pattern.dll
+C:\Users\MohiuFah\Desktop\Web Development .NET\Assignments\AssignmentNo2\Pattern\obj\Debug\net6.0\refint\Pattern.dll
+C:\Users\MohiuFah\Desktop\Web Development .NET\Assignments\AssignmentNo2\Pattern\obj\Debug\net6.0\Pattern.pdb
+C:\Users\MohiuFah\Desktop\Web Development .NET\Assignments\AssignmentNo2\Pattern\obj\Debug\net6.0\Pattern.genruntimeconfig.cache
+C:\Users\MohiuFah\Desktop\Web Development .NET\Assignments\AssignmentNo2\Pattern\obj\Debug\net6.0\ref\Pattern.dll
